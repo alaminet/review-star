@@ -38,10 +38,20 @@ you should make a useState for update and collect review data
 const [reVal, SetReVal] = useState(0);
 ```
 
-#### Add Component
+#### Add Component (Updateable)
+
+for updatable review-star need useState
 
 ```javascript
 <ReviewStar reviewClick={reVal} reviewCount={SetReVal} />
+```
+
+#### Add Component (Fixed)
+
+to use fixed review-star
+
+```javascript
+<ReviewStar reviewClick={4} />
 ```
 
 | Parameter     | Type     | Description                               |
