@@ -1,6 +1,6 @@
 {
   "name": "review-star",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Review star developed for React project",
   "main": "dist/index.js",
   "scripts": {
