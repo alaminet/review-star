@@ -1,0 +1,28 @@
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.flex{
+    display: flex;
+}
+
+.gap-1{
+    gap: 0.25rem;
+}
+
+.left-0{
+    left: 0;
+} 
+
+.top-0{
+    top: 0;
+    
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}

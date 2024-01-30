@@ -1,0 +1,21 @@
+{
+  "name": "review-star",
+  "version": "0.0.3",
+  "description": "Review star developed for React project",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "keywords": [
+    "review",
+    "star"
+  ],
+  "author": "alaminet",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-react": "^7.23.3"
+  }
+}

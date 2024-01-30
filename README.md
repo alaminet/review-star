@@ -1,4 +1,4 @@
-# Review Start on React
+# Review Star on React
 
 With the help of this package, you can complete the review process very easily and save the value of those reviews on [React.js](https://react.dev/)
 
