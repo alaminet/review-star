@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import FaRegStar from "./FaRegStar";
 import FaStar from "./FaStar";
 import "./reviewStar.css";
