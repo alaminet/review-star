@@ -48,7 +48,7 @@ for updatable review-star need useState
 
 #### Add Component (Fixed)
 
-to use fixed review-star
+to use fixed review-star (no need useState)
 
 ```javascript
 <ReviewStar reviewClick={4} />
